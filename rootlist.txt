@@ -1,0 +1,24 @@
+total 580K
+drwxr-xr-x  1 root root 4.0K Mar 18 14:14 .
+drwxr-xr-x  1 root root 4.0K Mar 18 14:14 ..
+drwxr-xr-x  1 root root 4.0K Mar 18 14:14 bin
+drwxr-xr-x  1 root root 4.0K Mar  4 17:08 boot
+drwxr-xr-x  1 root root 4.0K Mar 31 12:31 dev
+drwxr-xr-x  1 root root 4.0K Mar 31 12:31 etc
+drwxr-xr-x  1 root root 4.0K Mar 18 14:14 home
+-rwxr-xr-x  1 root root 578K Jan  1  1970 init
+drwxr-xr-x  1 root root 4.0K Mar  4 16:59 lib
+drwxr-xr-x  1 root root 4.0K Mar  4 16:53 lib64
+drwxr-xr-x  1 root root 4.0K Mar  4 16:52 media
+drwxr-xr-x  1 root root 4.0K Mar 18 14:14 mnt
+drwxr-xr-x  1 root root 4.0K Mar  4 16:52 opt
+dr-xr-xr-x  9 root root    0 Mar 31 12:31 proc
+drwx------  1 root root 4.0K Mar  4 17:02 root
+drwxr-xr-x  1 root root 4.0K Mar 31 12:31 run
+drwxr-xr-x  1 root root 4.0K Mar 18 14:14 sbin
+drwxr-xr-x  1 root root 4.0K Oct 30 13:17 snap
+drwxr-xr-x  1 root root 4.0K Mar  4 16:52 srv
+dr-xr-xr-x 12 root root    0 Mar 31 12:31 sys
+drwxrwxrwt  1 root root 4.0K Mar 31 12:57 tmp
+drwxr-xr-x  1 root root 4.0K Mar  4 16:52 usr
+drwxr-xr-x  1 root root 4.0K Mar  4 17:02 var
