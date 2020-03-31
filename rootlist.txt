@@ -1,4 +1,4 @@
-total 580K
+oral 580K
 drwxr-xr-x  1 root root 4.0K Mar 18 14:14 .
 drwxr-xr-x  1 root root 4.0K Mar 18 14:14 ..
 drwxr-xr-x  1 root root 4.0K Mar 18 14:14 bin
