@@ -1,28 +1,40 @@
-# This is a large heading
+# Peter
 
-## This is a smaller heading
+## A few words ...
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I am opening **this repo** as part of my *Unix Workshop* lessons what I am currently doing on the [Coursera](www.coursera.org/learn/unix) website. This is a very good course, covering the following main topics:
 
-- This is
-- an unordered
-- list
+1.Unix and Command Line Basics
+- What is Unix?
+- Getting Unix
+- Command Line Basics
+2. Working with Unix
+- Self-Help
+- Get Wild
+- Search
+- Configure
+- Differentiate
+- Pipes
+- Make
+3. Bash Programming
+- Math
+- Variables
+- User Input
+- Logic and If/Else
+- Arrays
+- Braces
+- Loops
+- Functions
+- Writing Programs
+4. Git and GitHub
+- Git and GitHub Basics
+- Important Git Features
+- Branching
+- GitHub
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
 
 ```
-This is
-a block
-of code
+To higlight commands/scripts/commands as important as document them.
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Currently there is No picture available :(
+![This is an image.](https://github.com/kerpger/FirstRepo/x.jpg)
