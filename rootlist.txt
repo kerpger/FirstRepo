@@ -1,4 +1,5 @@
-oral 580K
+total 580KSH
+
 drwxr-xr-x  1 root root 4.0K Mar 18 14:14 .
 drwxr-xr-x  1 root root 4.0K Mar 18 14:14 ..
 drwxr-xr-x  1 root root 4.0K Mar 18 14:14 bin
@@ -22,3 +23,5 @@ dr-xr-xr-x 12 root root    0 Mar 31 12:31 sys
 drwxrwxrwt  1 root root 4.0K Mar 31 12:57 tmp
 drwxr-xr-x  1 root root 4.0K Mar  4 16:52 usr
 drwxr-xr-x  1 root root 4.0K Mar  4 17:02 var
+I added this line in the update-readme branch.
+It's sunny outside today.
