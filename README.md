@@ -6,10 +6,13 @@ I am opening **this repo** as part of my *Unix Workshop* lessons what I am curre
 
 1.The Unix and Command Line Basics
 - Basic description and the most important basic commands on Unix
+
 2.Working with Unix
 - Comering the fololowing main topics: bash basic configuration, *man*, *find*, *diff*, *|* (pipe), *make*
+
 3.Bash Programming
 - Including some very intersting details about the scripting basics: **Math**, **Variables**, **User Input**, **Logic and If/Else**, **Arrays**, **Braces**, **Loops**, **Functions** and **Writing Programs**
+
 4.Git and GitHub
 - Introduce the basics of *Git/GitHub*, explain the *important Git features*, *branching* and practical hints for *GitHub*
 
